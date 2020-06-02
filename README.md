@@ -13,6 +13,7 @@ In this project I have made a Memorization game and named it as 'Memorization Po
 ## See Game In Action:
 Click the Image to show the overview of this project!
 
+[![Watch the video](http://i3.ytimg.com/vi/7CScb8Hifrg/maxresdefault.jpg)](https://youtu.be/7CScb8Hifrg)
 ## Packages I Have Used:
 - pygame
 - tkinter
