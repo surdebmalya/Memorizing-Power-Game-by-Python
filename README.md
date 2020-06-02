@@ -21,3 +21,4 @@ Click the Image to show the overview of this project!
 - os
 - time
 ## View my Blog relating to this Project:
+https://dsasanengineer.blogspot.com/2020/06/memorizing-power-game-python-project.html
