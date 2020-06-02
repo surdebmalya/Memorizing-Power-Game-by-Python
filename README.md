@@ -4,7 +4,7 @@ In this project I have made a Memorization game and named it as 'Memorization Po
 - The main interface of the window contains 4x4 grids where each grid contains an unique picture which is hidden from you.
 - There are 2 same images in the grid.
 - When you click on one grid then it will show you the image which is hidden under it.
-- You can see atmost 2 images at the same time. So when you clicked on the third image, the first image you have clicked, will become hidden again!!!
+- You can see at most 2 images at the same time. So when you clicked on the third image, the first image you have clicked, will become hidden again!!!
 - So, you have to memorize the pictures under the hidden grids.
 - When two recent clicked images get matched, then you will be shown a 'It's Match!' screen.
 - There also a 'SEE PROFILE' button at the bottom of the game screen.
