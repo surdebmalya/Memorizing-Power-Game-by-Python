@@ -21,4 +21,4 @@ Click the Image to show the overview of this project!
 - os
 - time
 ## View The Related Blog:
-[Click Here](https://dsasanengineer.blogspot.com/2020/06/memorizing-power-game-python-project.html) to view the related blog of this project!
+[Click Here](https://surdebmalya.hashnode.dev/memorizing-power-game) to view the related blog of this project!
